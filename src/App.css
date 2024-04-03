@@ -1,0 +1,15 @@
+.App{
+  background-color: #fae6eb;
+}
+
+.cake{
+  height: 80vmin;
+  pointer-events: none;
+}
+
+.age{
+  font-size: 35vmin;
+}
+.age-bottom{
+  font-size:20vmin;
+}
