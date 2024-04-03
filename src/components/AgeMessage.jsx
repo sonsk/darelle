@@ -16,7 +16,7 @@ export default function AgeMessage(props) {
       }
     }, []);
   return (
-    <div className="mt-5 md:hidden">
+    <div className="mt-5 md:hidden font-mono">
       {isBirthday ? (
         <div>
             <p className="relative top-20 text-center  text-4xl">
