@@ -17,5 +17,8 @@
   .hidden-on-custom {
       display: block;
   }
+  .age-bottom{
+    font-size:10vmin;
+  }
 }
 

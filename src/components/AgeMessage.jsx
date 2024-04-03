@@ -19,7 +19,7 @@ export default function AgeMessage(props) {
     <div className="mt-5 md:hidden font-mono">
       {isBirthday ? (
         <div>
-            <p className="relative top-20 text-center  text-4xl">
+            <p className="relative top-20 text-center  text-2xl">
             <span className="border-solid border-2 border-blue-200 rounded-full p-2 px-4">I'm {props.age}  </span>
             <span></span>
             </p>
@@ -32,17 +32,17 @@ export default function AgeMessage(props) {
         </div>
       ) : (
         <div>
-            <p className="relative top-20 text-center  text-4xl">
+            <p className="relative top-20 text-center  text-2xl">
             <span className="border-solid border-2 border-red-200 rounded-full p-2 px-4">I'm {props.age}  </span>
             <span></span>
             </p>
-            <p className="relative w-10/12 mx-auto top-20 text-center  text-2xl mt-5 sm:text-xl font-light">
+            <p className="relative w-10/12 mx-auto top-20 text-center  text-xl mt-5  font-light">
             Not yet my birthday
             </p>
-            <p className="relative w-10/12 mx-auto top-20 text-center  text-2xl mt-5 sm:text-xl font-light">
+            <p className="relative w-10/12 mx-auto top-20 text-center  text-xl mt-5  font-light">
                 All I have to do now is work to achieve what I've set out to do.
             </p>
-            <p className="relative w-8/12 mx-auto top-20 text-center  text-4xl mt-5 font-light">
+            <p className="relative w-8/12 mx-auto top-20 text-center  font-light">
             <img src="angry.png" className="angry hidden hidden-on-custom" alt="angry"/>
             </p>
         </div>
