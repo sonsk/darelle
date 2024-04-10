@@ -52,7 +52,7 @@ export default function AgeMessage(props) {
                 All I have to do now is work to achieve what I've set out to do.
             </p>
             <p className="relative w-10/12 mx-auto top-20 text-center  text-xs font-light">
-            "sorry text-me let's talk i know"
+            "11-04-2024 parc 16h"
             </p>
             <p className="relative w-8/12 mx-auto top-20 text-center  font-light">
             <img src="angry.png" className="angry hidden hidden-on-custom" alt="angry"/>
