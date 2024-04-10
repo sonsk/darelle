@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/darelle/static/css/main.45778d10.css",
-    "main.js": "/darelle/static/js/main.00699e6f.js",
+    "main.css": "/darelle/static/css/main.76931107.css",
+    "main.js": "/darelle/static/js/main.8f3ab051.js",
     "static/js/488.9976047c.chunk.js": "/darelle/static/js/488.9976047c.chunk.js",
     "index.html": "/darelle/index.html",
-    "main.45778d10.css.map": "/darelle/static/css/main.45778d10.css.map",
-    "main.00699e6f.js.map": "/darelle/static/js/main.00699e6f.js.map",
+    "main.76931107.css.map": "/darelle/static/css/main.76931107.css.map",
+    "main.8f3ab051.js.map": "/darelle/static/js/main.8f3ab051.js.map",
     "488.9976047c.chunk.js.map": "/darelle/static/js/488.9976047c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45778d10.css",
-    "static/js/main.00699e6f.js"
+    "static/css/main.76931107.css",
+    "static/js/main.8f3ab051.js"
   ]
 }
