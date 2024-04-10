@@ -26,8 +26,17 @@ export default function AgeMessage(props) {
             <p className="relative w-10/12 mx-auto top-20 text-center  text-3xl mt-5 sm:text-xl font-bold">
             It's my birthday
             </p>
-            <p className="relative w-10/12 mx-auto top-20 text-center  text-4xl mt-5 sm:text-xl font-light">
+            <p className="relative w-8/12 mx-auto top-20 text-center  font-light">
+            <img src="piip.png" className="piip hidden hidden-on-custom" alt="piip"/>
+            </p>
+            <p className="relative w-10/12 mx-auto top-20 text-center  text-3xl mt-5 sm:text-xl font-light">
             May the dreams I'm working on come true
+            </p>
+            <p className="relative w-10/12 mx-auto top-20 text-center  text-small font-light">
+            "Love you...Ton gros bb"
+            </p>
+            <p className="relative w-10/12 mx-auto top-20 text-center  text-small font-light">
+            "Rdv Parc 18h30"
             </p>
         </div>
       ) : (
