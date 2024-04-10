@@ -23,13 +23,13 @@ export default function AgeMessage(props) {
             <span className="border-solid border-2 border-blue-200 rounded-full p-2 px-4">I'm {props.age}  </span>
             <span></span>
             </p>
-            <p className="relative w-10/12 mx-auto top-20 text-center  text-3xl mt-5 sm:text-xl font-bold">
+            <p className="relative w-10/12 mx-auto top-20 text-center  text-2xl mt-5 sm:text-xl font-bold">
             It's my birthday
             </p>
-            <p className="relative w-2/12 mx-auto top-20 text-center  font-light">
+            <p className="relative w-4/12 mx-auto top-20 text-center  font-light">
             <img src="piip.png" className="piip hidden hidden-on-custom" alt="piip"/>
             </p>
-            <p className="relative w-10/12 mx-auto top-20 text-center  text-3xl mt-5 sm:text-xl font-light">
+            <p className="relative w-10/12 mx-auto top-20 text-center  text-2xl mt-5 sm:text-xl font-light">
             May the dreams I'm working on come true
             </p>
             <p className="relative w-10/12 mx-auto top-20 text-center  text-small font-light">
