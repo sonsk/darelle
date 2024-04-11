@@ -14,7 +14,7 @@ export default function Footer() {
         </div>
       </div>
       <div>
-        <p className="text-center text-xs font-light">made with heart by steve@sonsk-2024</p>
+        <p className="text-center text-xs font-light">made by steve@sonsk-2024</p>
       </div>
      
     </div>

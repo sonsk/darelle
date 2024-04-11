@@ -32,12 +32,8 @@ export default function AgeMessage(props) {
             <p className="relative w-10/12 mx-auto top-20 text-center  text-2xl mt-5 sm:text-xl font-light">
             May the dreams I'm working on come true
             </p>
-            <p className="relative w-10/12 mx-auto top-20 text-center  text-small font-light">
-            "Love you...Ton gros bb"
-            </p>
-            <p className="relative w-10/12 mx-auto top-20 text-center  text-small font-light">
-            "Rdv Parc 18h"
-            </p>
+            
+            
         </div>
       ) : (
         <div>
@@ -51,9 +47,7 @@ export default function AgeMessage(props) {
             <p className="relative w-10/12 mx-auto top-20 text-center  text-xl mt-5  font-light">
                 All I have to do now is work to achieve what I've set out to do.
             </p>
-            <p className="relative w-10/12 mx-auto top-20 text-center  text-xs font-light">
-            "11-04-2024 parc 16h"
-            </p>
+            
             <p className="relative w-8/12 mx-auto top-20 text-center  font-light">
             <img src="angry.png" className="angry hidden hidden-on-custom" alt="angry"/>
             </p>
